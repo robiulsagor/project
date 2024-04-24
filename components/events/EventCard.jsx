@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import ActionButtons from "./ActionButtons";
+import ActionButtons from "../ActionButtons";
 
 export default function EventCard({ event }) {
   return (
